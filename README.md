@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesscudder
 - 👀 I’m interested Data, Environment, Bikes
-- 🌱 I’m currently Python, Italian
+- 🌱 I’m currently learning Python, Italian
 - 💞️ I’m looking to collaborate on knowledge
 - 📫 How to reach me email
 
